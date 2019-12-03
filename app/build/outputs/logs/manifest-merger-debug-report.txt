@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/31698fef2f160fd852e25985ea65b6ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anastasia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12e8a8d479adf227da76454e781075a1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ac3ef7bf2e94c1d8b88417f06f1567a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/09bd9e72ae95815b93c2dc2b0db0a263/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/072fce34bf315bc914266cdef50a21ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/767d092508d80c3198695c8d6a67e72f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72a4f8ac8122ef159cadcf484aab137e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b97b19379c73749288aa600659cf0331/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e7a6deb4486a3069d638f1166b733ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63e7b8857c6149b477a7788145a28043/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a8faf55efb1f549fc515fe6a2ae1772/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0dcd42d7aa357496781f027e3a42e70f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:4:3-51
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:3:3-49
+	android:versionCode
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:6:3-30:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anastasia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12e8a8d479adf227da76454e781075a1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anastasia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12e8a8d479adf227da76454e781075a1/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:11:5-31
+	android:label
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:9:5-37
+	tools:ignore
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:13:5-44
+	android:roundIcon
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:10:5-50
+	android:icon
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:8:5-39
+	android:allowBackup
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:7:5-32
+	android:theme
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:12:5-36
+activity#com.raywenderlich.android.razegalactic.SplashActivity
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:16:5-24:16
+	android:screenOrientation
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:18:7-43
+	android:name
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:17:7-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:19:7-23:23
+action#android.intent.action.MAIN
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:22:19-66
+activity#com.raywenderlich.android.razegalactic.MainActivity
+ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:27:5-29:46
+	android:screenOrientation
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:29:7-43
+	android:name
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml:28:7-35
+uses-sdk
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/31698fef2f160fd852e25985ea65b6ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/31698fef2f160fd852e25985ea65b6ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anastasia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12e8a8d479adf227da76454e781075a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anastasia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12e8a8d479adf227da76454e781075a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ac3ef7bf2e94c1d8b88417f06f1567a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ac3ef7bf2e94c1d8b88417f06f1567a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/09bd9e72ae95815b93c2dc2b0db0a263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/09bd9e72ae95815b93c2dc2b0db0a263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/072fce34bf315bc914266cdef50a21ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/072fce34bf315bc914266cdef50a21ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/767d092508d80c3198695c8d6a67e72f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/767d092508d80c3198695c8d6a67e72f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72a4f8ac8122ef159cadcf484aab137e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72a4f8ac8122ef159cadcf484aab137e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b97b19379c73749288aa600659cf0331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/anastasia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b97b19379c73749288aa600659cf0331/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e7a6deb4486a3069d638f1166b733ac8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e7a6deb4486a3069d638f1166b733ac8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63e7b8857c6149b477a7788145a28043/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63e7b8857c6149b477a7788145a28043/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a8faf55efb1f549fc515fe6a2ae1772/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a8faf55efb1f549fc515fe6a2ae1772/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0dcd42d7aa357496781f027e3a42e70f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/anastasia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0dcd42d7aa357496781f027e3a42e70f/AndroidManifest.xml:20:5-44
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		ADDED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anastasia/Documents/android_school/hw/RazeGalactic/app/src/main/AndroidManifest.xml
